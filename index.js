@@ -11,6 +11,6 @@ function happyHolidayTo(holiday, name) {
 }
 
 function holidayCountdown(holiday, days) {
-  return ("It\'s 20 days until Mothers Day!")
+  return ("It\'s 20 days until Mother's Day!")
 }
 var name = "you"
